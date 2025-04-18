@@ -1,7 +1,6 @@
  <h1 align="center"> Hi there 👋, I'm Hasan! </h1>
 
-## ✌️ About Me
-
+<h2>✌️ About Me</h2>
 ````
 public class Hasan {
     public static void main(String[] args) {
@@ -11,8 +10,7 @@ public class Hasan {
     }
 }
 ````
-
-### 🥽 Honours Project:
+<h3>🥽 Honours Project:</h3>
 Crime Scene Recreation Using Virtual Realtiy: This project aims to develop a VR-based system that reconstructs crime scenes using forensic evidence, court transcripts, and witness statements. This immersive tool allows investigators, legal professionals, and forensic students to analyze cases with greater clarity.
 
 ---
