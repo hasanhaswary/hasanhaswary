@@ -1,13 +1,13 @@
  <h1 align="center"> Hi there 👋, I'm Hasan! </h1>
 
 <h2>✌️ About Me</h2>
-```typescript
+
 <code>const Olga = {
   🎓: "BSc Honours Computer Science @University of Western Cape",
   🌱: "Open to opportunities in Software Engineering & Development ",
   🧱: "Passionate about building projects I believe in"
 };</code>
-```
+
 
 <h2>🥽 Honours Project:</h2>
 Crime Scene Recreation Using Virtual Realtiy: This project aims to develop a VR-based system that reconstructs crime scenes using forensic evidence, court transcripts, and witness statements. This immersive tool allows investigators, legal professionals, and forensic students to analyze cases with greater clarity.
