@@ -13,7 +13,7 @@ public class Hasan {
 ````
 
 <h3>🥽 Honours Project:</h3>
-Crime Scene Recreation Using Virtual Realtiy: This project aims to develop a VR-based system that reconstructs crime scenes using forensic evidence, court transcripts, and witness statements. This immersive tool allows investigators, legal professionals, and forensic students to analyze cases with greater clarity.
+**Crime Scene Recreation Using Virtual Realtiy:** This project aims to develop a VR-based system that reconstructs crime scenes using forensic evidence, court transcripts, and witness statements. This immersive tool allows investigators, legal professionals, and forensic students to analyze cases with greater clarity.
 
 ---
 
@@ -81,11 +81,13 @@ Crime Scene Recreation Using Virtual Realtiy: This project aims to develop a VR-
 
 <h2 align="center">🚀 Let's Connect</h2>
 <div align="center">
-<p><a href="linkedin.com/in/hasanhaswary"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30"></a></p>
-<p><a href="github.com/hasanhaswary"><img src="https://skillicons.dev/icons?i=github" width="30" height="30"></a></p>
-<p><a href="instagram.com/hasanh_za"><img src="https://skillicons.dev/icons?i=instagram" width="30" height="30"></a></p>
-<p><a href="x.com/hasanh_za"><img src="" width="30" height="30"></a></p>
+<a href="linkedin.com/in/hasanhaswary"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30"></a>
+<a href="github.com/hasanhaswary"><img src="https://skillicons.dev/icons?i=github" width="30" height="30"></a>
+<a href="instagram.com/hasanh_za"><img src="https://skillicons.dev/icons?i=instagram" width="30" height="30"></a>
+<a href="x.com/hasanh_za"><img src="" width="30" height="30"></a>
 </div>
+
 <div align="center">
-<p><a href="mailto:hasanhaswary903@gmail.com">✉️ hasanhaswary903@gmail.com</a></p>
+<a href="mailto:hasanhaswary903@gmail.com">🌐 PORTFOLIO | </a>
+<a href="mailto:hasanhaswary903@gmail.com">✉️ hasanhaswary903@gmail.com</a>
 </div>
