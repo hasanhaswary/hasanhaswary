@@ -40,6 +40,7 @@ public class Hasan {
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+
 <h3>Frameworks, Platforms & Libraries</h3>
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -82,10 +83,10 @@ public class Hasan {
 
 <h2 align="center">🚀 Let's Connect</h2>
 <div align="center">
-<a link="linkedin.com/in/hasanhaswary"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30"></a>
-<a href="github.com/hasanhaswary"><img src="https://skillicons.dev/icons?i=github" width="30" height="30"></a>
-<a href="instagram.com/hasanh_za"><img src="https://skillicons.dev/icons?i=instagram" width="30" height="30"></a>
-<a href="x.com/hasanh_za"><img src="" width="30" height="30"></a>
+<a link="https://www.linkedin.com/in/hasanhaswary"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30"></a>
+<a href="https://www.github.com/hasanhaswary"><img src="https://skillicons.dev/icons?i=github" width="30" height="30"></a>
+<a href="https://www.instagram.com/hasanh_za"><img src="https://skillicons.dev/icons?i=instagram" width="30" height="30"></a>
+<a href="https://www.x.com/hasanh_za"><img src="images/twitter" width="30" height="30"></a>
 </div>
 
 <div align="center">
