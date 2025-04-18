@@ -86,7 +86,7 @@ public class Hasan {
 <a link="https://www.linkedin.com/in/hasanhaswary"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30"></a>
 <a href="https://www.github.com/hasanhaswary"><img src="https://skillicons.dev/icons?i=github" width="30" height="30"></a>
 <a href="https://www.instagram.com/hasanh_za"><img src="https://skillicons.dev/icons?i=instagram" width="30" height="30"></a>
-<a href="https://www.x.com/hasanh_za"><img src="images/twitter" width="30" height="30"></a>
+<a href="https://www.x.com/hasanh_za"><img src="https://skillicons.dev/icons?i=twitter" width="30" height="30"></a>
 </div>
 
 <div align="center">
