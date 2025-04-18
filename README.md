@@ -71,6 +71,7 @@ Crime Scene Recreation Using Virtual Realtiy: This project aims to develop a VR-
 <li>Sign language Recognition Model</li>
 <li>Creating a Crime Scene Recreation System for Detective Training (Honours Project)</li>
 </ul>
+
 ---
 
 <h2 align="center">🚀 Let's Connect</h2>
