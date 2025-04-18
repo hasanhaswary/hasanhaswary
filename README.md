@@ -55,6 +55,7 @@ public class Hasan {
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h3>ML/DL</h3>
 
@@ -83,7 +84,7 @@ public class Hasan {
 
 <h2 align="center">🚀 Let's Connect</h2>
 <div align="center">
-<a link="https://www.linkedin.com/in/hasanhaswary"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/hasanhaswary"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30"></a>
 <a href="https://www.github.com/hasanhaswary"><img src="https://skillicons.dev/icons?i=github" width="30" height="30"></a>
 <a href="https://www.instagram.com/hasanh_za"><img src="https://skillicons.dev/icons?i=instagram" width="30" height="30"></a>
 <a href="https://www.x.com/hasanh_za"><img src="https://skillicons.dev/icons?i=twitter" width="30" height="30"></a>
@@ -93,3 +94,7 @@ public class Hasan {
 <a href="">🌐 Portfolio Website</a> | 
 <a href="mailto:hasanhaswary903@gmail.com">✉️ hasanhaswary903@gmail.com</a>
 </div>
+
+---
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
