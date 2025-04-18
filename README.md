@@ -1,13 +1,11 @@
  <h1 align="center"> Hi there 👋, I'm Hasan! </h1>
 
 <h2>✌️ About Me</h2>
-<code>
-const Olga = {
+<code>const Olga = {
   🎓: "BSc Honours Computer Science @University of Western Cape",
   🌱: "Open to opportunities in Software Engineering & Development ",
   🧱: "Passionate about building projects I believe in"
-};
-</code>
+};</code>
 
 <h2>🥽 Honours Project:</h2>
 Crime Scene Recreation Using Virtual Realtiy: This project aims to develop a VR-based system that reconstructs crime scenes using forensic evidence, court transcripts, and witness statements. This immersive tool allows investigators, legal professionals, and forensic students to analyze cases with greater clarity.
@@ -75,13 +73,13 @@ Crime Scene Recreation Using Virtual Realtiy: This project aims to develop a VR-
 </ul>
 ---
 
-<h2 align="centre">🚀 Let's Connect</h2>
-<div align="centre">
+<h2 align="center">🚀 Let's Connect</h2>
+<div align="center">
 <p><a href="linkedin.com/in/hasanhaswary"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30"></a></p>
 <p><a href="github.com/hasanhaswary"><img src="https://skillicons.dev/icons?i=github" width="30" height="30"></a></p>
 <p><a href="instagram.com/hasanh_za"><img src="https://skillicons.dev/icons?i=instagram" width="30" height="30"></a></p>
 <p><a href="x.com/hasanh_za"><img src="" width="30" height="30"></a></p>
 </div>
-<div align="centre">
+<div align="center">
 <p><a href="mailto:hasanhaswary903@gmail.com">✉️ hasanhaswary903@gmail.com</a></p>
 </div>
